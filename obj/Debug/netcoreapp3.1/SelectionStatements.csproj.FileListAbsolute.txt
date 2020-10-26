@@ -1,0 +1,13 @@
+C:\Users\gnyork\source\repos\SelectionStatements\bin\Debug\netcoreapp3.1\SelectionStatements.exe
+C:\Users\gnyork\source\repos\SelectionStatements\bin\Debug\netcoreapp3.1\SelectionStatements.deps.json
+C:\Users\gnyork\source\repos\SelectionStatements\bin\Debug\netcoreapp3.1\SelectionStatements.runtimeconfig.json
+C:\Users\gnyork\source\repos\SelectionStatements\bin\Debug\netcoreapp3.1\SelectionStatements.runtimeconfig.dev.json
+C:\Users\gnyork\source\repos\SelectionStatements\bin\Debug\netcoreapp3.1\SelectionStatements.dll
+C:\Users\gnyork\source\repos\SelectionStatements\bin\Debug\netcoreapp3.1\SelectionStatements.pdb
+C:\Users\gnyork\source\repos\SelectionStatements\obj\Debug\netcoreapp3.1\SelectionStatements.csprojAssemblyReference.cache
+C:\Users\gnyork\source\repos\SelectionStatements\obj\Debug\netcoreapp3.1\SelectionStatements.AssemblyInfoInputs.cache
+C:\Users\gnyork\source\repos\SelectionStatements\obj\Debug\netcoreapp3.1\SelectionStatements.AssemblyInfo.cs
+C:\Users\gnyork\source\repos\SelectionStatements\obj\Debug\netcoreapp3.1\SelectionStatements.csproj.CoreCompileInputs.cache
+C:\Users\gnyork\source\repos\SelectionStatements\obj\Debug\netcoreapp3.1\SelectionStatements.dll
+C:\Users\gnyork\source\repos\SelectionStatements\obj\Debug\netcoreapp3.1\SelectionStatements.pdb
+C:\Users\gnyork\source\repos\SelectionStatements\obj\Debug\netcoreapp3.1\SelectionStatements.genruntimeconfig.cache
